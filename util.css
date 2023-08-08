@@ -1,0 +1,17 @@
+.bg-red{
+    background: red;
+}
+.justify-content{
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.align-center{
+    align-items: center;
+}
